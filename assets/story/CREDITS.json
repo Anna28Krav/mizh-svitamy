@@ -1,0 +1,158 @@
+{
+  "collection": "Між світами — концептуальна фотогалерея простору",
+  "date": "2026-11-03",
+  "generation": "Built-in image_gen; one generation per scene. Generated photographic-style concept illustrations of an imaginary café, not documentary evidence of real premises, people, events or charitable operations.",
+  "optimization": "PNG originals converted to RGB WebP, max1200px, quality87; no content edits.",
+  "assets": [
+    {
+      "file": "entrance-view.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery architectural anchor, landscape 4:3 photograph. Create a believable candid documentary interior photo of an imaginary small Ukrainian craft café Між світами, viewed wide from its front entrance. Reference images 1 and 2 are ONLY palette and photographic-light/material references, not scene to copy. Architectural invariant to establish for the whole series: warm cream textured plaster walls; three tall arched windows along the left wall with natural late-afternoon daylight; muted plum velvet banquette under windows; sage green wooden chairs and light oak round tables; small brass star-shaped pendant lights; back-right curved coffee counter with cream bouclé padded front, practical pale stone top and real espresso machine, grinder and cups; one plum accent panel; oak herringbone floor; small plants and a few cups/notebooks make it lived-in. Show convincing real proportions and usable aisle, subtle café life two guests in distance, no posed smiles. Cozy pastel details, not fantasy theme park. Natural uneven lighting, gentle film grain, honest wood/plaster/fabric textures, DSLR 35mm lens look, soft shadows, not glossy render, not CGI, no plastic surfaces, no montage, no readable text/signage/logos/watermark. Composition shows complete room, counter and seating clearly without fisheye distortion.",
+      "references": [
+        "../lavender-day.webp",
+        "../menu/lilac-moon-cohesive.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "barista-smile.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is the SAME imaginary café architectural anchor: preserve cream textured plaster, tall arched windows down left, plum velvet banquette, sage chairs, pale oak/stone round tables, brass star pendant lights, oak herringbone floor, curved cream bouclé counter with practical pale stone top and espresso hardware. Reference image 2 is only palette and food-photography texture. Photograph a different natural moment and camera angle inside this same café. Realistic lived-in texture, natural warm daylight, honest shadows, slight film grain, believable people and hands, no posed stock smiles, no CGI or plastic shine. No logos, no readable text, no fake text, no watermark, no collage. Scene: Medium candid view from guest side of the curved counter: one young adult woman barista in a simple sage apron smiles gently at a guest while setting a lilac ceramic latte cup and saucer onto counter. Her hands naturally hold saucer; practical stainless espresso machine behind her, plum banquette and arches softly visible, understated real human expression.",
+      "references": [
+        "entrance-view.webp",
+        "../lavender-day.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "dessert-characters.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is the SAME imaginary café architectural anchor: preserve cream textured plaster, tall arched windows down left, plum velvet banquette, sage chairs, pale oak/stone round tables, brass star pendant lights, oak herringbone floor, curved cream bouclé counter with practical pale stone top and espresso hardware. Reference image 2 is only palette and food-photography texture. Photograph a different natural moment and camera angle inside this same café. Realistic lived-in texture, natural warm daylight, honest shadows, slight film grain, believable people and hands, no posed stock smiles, no CGI or plastic shine. No logos, no readable text, no fake text, no watermark, no collage. Scene: Close view through clean pastry vitrine glass on counter: exquisite individual white garlic-head-shaped mousse with natural clove ridges and delicate stem, a cute cream-and-dark-chocolate panda-face dessert, lilac crescent mousse and peach-shaped mousse, arranged as real edible artisan entremets on small plates. Credible chilled display, subtle glass reflections, blurred cream/plum café behind, no labels.",
+      "references": [
+        "entrance-view.webp",
+        "../lavender-day.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "halloween-window.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is the SAME imaginary café architectural anchor: preserve cream textured plaster, tall arched windows down left, plum velvet banquette, sage chairs, pale oak/stone round tables, brass star pendant lights, oak herringbone floor, curved cream bouclé counter with practical pale stone top and espresso hardware. Reference image 2 is only palette and food-photography texture. Photograph a different natural moment and camera angle inside this same café. Realistic lived-in texture, natural warm daylight, honest shadows, slight film grain, believable people and hands, no posed stock smiles, no CGI or plastic shine. No logos, no readable text, no fake text, no watermark, no collage. Scene: Inside view of one familiar arched café window dressed for a cozy Halloween: small orange pumpkins on sill, sparse decorative artificial cobweb threads at upper corners, three red handprints visibly made from translucent washable decorative paint on glass (clearly party paint, no blood, no injury or gore). Plum banquette, sage chair, coffee cup and warm brass star light frame the scene.",
+      "references": [
+        "entrance-view.webp",
+        "../lavender-day.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "volunteer-weaving.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is the SAME imaginary café architectural anchor: preserve cream textured plaster, tall arched windows down left, plum velvet banquette, sage chairs, pale oak/stone round tables, brass star pendant lights, oak herringbone floor, curved cream bouclé counter with practical pale stone top and espresso hardware. Reference image 2 is only palette and food-photography texture. Photograph a different natural moment and camera angle inside this same café. Realistic lived-in texture, natural warm daylight, honest shadows, slight film grain, believable people and hands, no posed stock smiles, no CGI or plastic shine. No logos, no readable text, no fake text, no watermark, no collage. Scene: Candid small community event inside café near arched window: four ordinary adult volunteers, women and men in everyday sweaters, cooperating to weave olive/tan fabric strips through a large upright rectangular camouflage protective net frame. Net frame clearly visible with hands naturally tying fabric, no weapons or insignia. Café tables moved aside to provide room, warm cream/plum décor, sincere focused expressions.",
+      "references": [
+        "entrance-view.webp",
+        "../lavender-day.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "support-parcels.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is the SAME imaginary café architectural anchor: preserve cream textured plaster, tall arched windows down left, plum velvet banquette, sage chairs, pale oak/stone round tables, brass star pendant lights, oak herringbone floor, curved cream bouclé counter with practical pale stone top and espresso hardware. Reference image 2 is only palette and food-photography texture. Photograph a different natural moment and camera angle inside this same café. Realistic lived-in texture, natural warm daylight, honest shadows, slight film grain, believable people and hands, no posed stock smiles, no CGI or plastic shine. No logos, no readable text, no fake text, no watermark, no collage. Scene: Candid medium view of three adult volunteers packing practical care parcels for Ukrainian defenders at a large clean café community table, boxes contain tea bags without readable branding, socks, hand warmers, basic toiletries and packaged snacks; one small yellow-blue ribbon tied around finished carton. Natural hands sorting items, focused human warmth, café arches/plum seating visible, no weapons, no real unit insignia, no legible writing or donation claims.",
+      "references": [
+        "entrance-view.webp",
+        "../lavender-day.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "pet-friendly.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream plaster, big arched windows along left, muted plum velvet banquette, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone countertop espresso hardware. Preserve coherent furniture and finishes, choose a new camera view. Natural lived-in details, warm daylight, believable hands/skin, realistic material textures, no staged stock-photo smiles, no CGI shine/plastic AI look. No readable text or signage/logos, no watermark, no montage. Scene: Candid adult woman guest sits at small window café table with a lilac cappuccino, smiling naturally down at her friendly small long-haired dachshund resting calmly beside her sage chair. Dog wears harness and a loose leash attached beside table, dog fully on floor not on furniture, plum banquette behind, gentle everyday moment.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "clay-workshop.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream plaster, big arched windows along left, muted plum velvet banquette, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone countertop espresso hardware. Preserve coherent furniture and finishes, choose a new camera view. Natural lived-in details, warm daylight, believable hands/skin, realistic material textures, no staged stock-photo smiles, no CGI shine/plastic AI look. No readable text or signage/logos, no watermark, no montage. Scene: A small creative clay workshop at an oak community table in café: two parents and two children about 7-10 years old shape small clay cups by hand on individual work mats, adults supervising with gentle focus. Clay lumps, wooden modeling tools, sponges, a few imperfect handmade cups, aprons. Believable hands naturally engaged. No pottery wheel or dangerous equipment; food prep area separate and arched window and plum seats visible.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "community-moment.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream plaster, big arched windows along left, muted plum velvet banquette, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone countertop espresso hardware. Preserve coherent furniture and finishes, choose a new camera view. Natural lived-in details, warm daylight, believable hands/skin, realistic material textures, no staged stock-photo smiles, no CGI shine/plastic AI look. No readable text or signage/logos, no watermark, no montage. Scene: Candid three young adult friends chatting at a table with lilac coffee cups, one leaning back laughing gently, another drawing a tiny star on pastel sticky note. Behind them a corkboard densely filled with different colored square sticky notes and tiny hand-drawn stars/hearts/coffee cups, handwriting entirely blurred or nonlegible. Warm unstaged café social moment beside familiar arched window.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "plush-counter.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream plaster, big arched windows along left, muted plum velvet banquette, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone countertop espresso hardware. Preserve coherent furniture and finishes, choose a new camera view. Natural lived-in details, warm daylight, believable hands/skin, realistic material textures, no staged stock-photo smiles, no CGI shine/plastic AI look. No readable text or signage/logos, no watermark, no montage. Scene: Architectural detail medium-wide view of curved coffee counter from side, focus on soft cream bouclé vertically padded front and muted plum side panel, practical pale stone food-safe top. Espresso machine, grinder, neatly stacked lilac cups, a small pastry glass dome, real working barista workstation. Arched windows reflected softly, warm brass star pendant, no people required. Cozy but practical hygienic counter.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "kids-corner.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream plaster, big arched windows along left, muted plum velvet banquette, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone countertop espresso hardware. Preserve coherent furniture and finishes, choose a new camera view. Natural lived-in details, warm daylight, believable hands/skin, realistic material textures, no staged stock-photo smiles, no CGI shine/plastic AI look. No readable text or signage/logos, no watermark, no montage. Scene: A cozy designated children's corner in the same café away from espresso workstation: two low rounded light-oak tables, tiny sage and lilac chairs, open shelf with wooden toys, basket of building blocks, coloring pages with simple stars and animals, chunky crayons on mats, washable floor mat. No children necessary, arched window natural light and plum seating visible beyond; genuinely usable uncluttered safe floor space.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "pet-corner.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream textured plaster, big arched windows on left, muted plum velvet banquettes, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone top/espresso hardware. Maintain coherent furniture and finishes while photographing different scene/angle. Natural warm windowlight and shadows, lived-in human details, realistic materials, subtle grain, not CGI/render, no glossy plastic AI look, no montage, no readable text, no fake legible letters, no logos/watermark. Scene: Low eye-level photo of a small thoughtful pet floor nook near guest seating, safely far from food prep: two clean water bowls on a washable sage mat, low wall-mounted brass leash hooks, a plum fabric dog bed and basket with two dog toys. Nearby sage café chair leg and window sill, no animals needed, natural practical uncluttered arrangement.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "pastry-display.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream textured plaster, big arched windows on left, muted plum velvet banquettes, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone top/espresso hardware. Maintain coherent furniture and finishes while photographing different scene/angle. Natural warm windowlight and shadows, lived-in human details, realistic materials, subtle grain, not CGI/render, no glossy plastic AI look, no montage, no readable text, no fake legible letters, no logos/watermark. Scene: Close three-quarter view of generous realistic pastry display inside clean glass vitrine at same curved café counter: golden butter croissants, almond croissants, cinnamon rolls with cream cheese frosting and cherry puff pastries on separate ceramic trays, believable flaky crumbs, no signs or labels, cream/plum café softly blurred behind, appetizing editorial food photo.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "savory-counter.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream textured plaster, big arched windows on left, muted plum velvet banquettes, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone top/espresso hardware. Maintain coherent furniture and finishes while photographing different scene/angle. Natural warm windowlight and shadows, lived-in human details, realistic materials, subtle grain, not CGI/render, no glossy plastic AI look, no montage, no readable text, no fake legible letters, no logos/watermark. Scene: Close three-quarter view through a clean chilled savory display case: fresh croissant sandwiches with visibly sliced turkey or ham, pale cheese and green lettuce, two small golden chicken-mushroom quiches and spinach feta quiches in trays, practical hygienic serving tongs, natural food texture. Familiar cream bouclé counter and stone top, no labels or readable text.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "window-nook.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream textured plaster, big arched windows on left, muted plum velvet banquettes, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone top/espresso hardware. Maintain coherent furniture and finishes while photographing different scene/angle. Natural warm windowlight and shadows, lived-in human details, realistic materials, subtle grain, not CGI/render, no glossy plastic AI look, no montage, no readable text, no fake legible letters, no logos/watermark. Scene: Quiet intimate seating corner at one of same tall arched windows: plum velvet banquette with cream and lilac cushions, sage wooden chair, small pale oak round table with lilac cappuccino, closed plum notebook and a little vase of seasonal flowers. Soft afternoon light and real leaf shadows, warm brass star pendant, inviting lived-in corner, no people.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "wish-board.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 documentary photo. Reference image 1 is exact architectural identity of SAME imaginary café: warm cream textured plaster, big arched windows on left, muted plum velvet banquettes, sage chairs, pale oak/stone tables, brass star pendant lights, oak herringbone floor, curved counter with cream bouclé padded front and practical pale stone top/espresso hardware. Maintain coherent furniture and finishes while photographing different scene/angle. Natural warm windowlight and shadows, lived-in human details, realistic materials, subtle grain, not CGI/render, no glossy plastic AI look, no montage, no readable text, no fake legible letters, no logos/watermark. Scene: Close-up of real corkboard mounted on same café cream plaster wall near a partial arched window: densely filled with many individual square sticky notes in pastel mint, lavender, cream, pink and yellow. Every note distinct position, some slightly curled corners, tiny informal hand-drawn hearts, stars and coffee cups, occasional faint handwriting completely unreadable/out of focus, no identifiable words, natural shadows and realistic paper texture, not digital UI. Plum banquette edge softly visible.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "coffee-tasting.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image is the SAME imaginary café architectural anchor; preserve warm cream textured plaster, tall arched windows left, muted plum velvet banquette, sage wooden chairs, pale oak/stone tables, small brass star pendant lights, oak herringbone floor, curved cream bouclé-front counter with practical pale stone top and espresso machine. Photograph a different believable angle in this exact café, warm natural window daylight, human lived-in details, natural shadows, honest fabric/wood/plaster texture, subtle grain. No CGI/render, no plastic shine, no readable words/logos, no watermark or montage. Scene: Three adult friends, two women and a man, casually tasting small ceramic coffee cups with a barista in sage apron beside the curved counter. A small tray of different coffee samples on tabletop, one guest thoughtfully smelling cup while another listens to barista. Natural focused friendly interaction, not posed advertising smiles. Believable hands and faces, plum banquette and arched windows visible in background.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    },
+    {
+      "file": "creative-corner.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: café story gallery landscape 4:3 candid documentary photo. Reference image is the SAME imaginary café architectural anchor; preserve warm cream textured plaster, tall arched windows left, muted plum velvet banquette, sage wooden chairs, pale oak/stone tables, small brass star pendant lights, oak herringbone floor, curved cream bouclé-front counter with practical pale stone top and espresso machine. Photograph a different believable angle in this exact café, warm natural window daylight, human lived-in details, natural shadows, honest fabric/wood/plaster texture, subtle grain. No CGI/render, no plastic shine, no readable words/logos, no watermark or montage. Scene: An inviting quiet creative corner in café: small oak worktable beside arched window and plum velvet bench, sage chair, open sketchbook with simple hand-drawn stars and botanical sketches but no legible text, colored pencils in a ceramic cup, a closed book stack, tiny dried-flower vase and lilac cappuccino. Natural casually arranged objects, warm gentle daylight, cozy usable nook, no people required.",
+      "references": [
+        "entrance-view.webp"
+      ],
+      "provenance": "Generated with built-in image_gen."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 160 160">
+<defs>
+ <radialGradient id="halo"><stop stop-color="#d9e9cf" stop-opacity=".23"/><stop offset=".5" stop-color="#cbb5d9" stop-opacity=".08"/><stop offset="1" stop-color="#cbb5d9" stop-opacity="0"/></radialGradient>
+ <linearGradient id="starlight" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff2d7"/><stop offset=".48" stop-color="#f3e4c8"/><stop offset="1" stop-color="#bfe6d4"/></linearGradient>
+ <linearGradient id="orbit"><stop stop-color="#c3dfcf" stop-opacity=".12"/><stop offset=".45" stop-color="#e1cfe5" stop-opacity=".7"/><stop offset="1" stop-color="#c3dfcf" stop-opacity=".2"/></linearGradient>
+ <radialGradient id="mint" cx=".28" cy=".25"><stop stop-color="#f0fff0"/><stop offset=".5" stop-color="#c2e6d3"/><stop offset="1" stop-color="#719b8b"/></radialGradient>
+ <radialGradient id="lilac" cx=".28" cy=".25"><stop stop-color="#f5e8ff"/><stop offset=".5" stop-color="#cebadb"/><stop offset="1" stop-color="#917caa"/></radialGradient>
+ <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<style>.star-core{transform-origin:80px 80px;animation:breathe 4.8s ease-in-out infinite}.star-glow{animation:glow 4.8s ease-in-out infinite}.glint{animation:twinkle 4s var(--delay,0s) ease-in-out infinite}.planet-rest{display:none}@keyframes breathe{0%,100%{transform:scale(.985)}50%{transform:scale(1.025)}}@keyframes glow{0%,100%{opacity:.25}50%{opacity:.62}}@keyframes twinkle{0%,100%{opacity:.25}50%{opacity:.9}}@media(prefers-reduced-motion:reduce){.star-core,.star-glow,.glint{animation:none}.planet-moving{display:none}.planet-rest{display:block}}</style>
+<circle cx="80" cy="80" r="72" fill="url(#halo)"/>
+<g transform="rotate(-14 80 80)">
+ <path id="orbit-a" d="M20 80a60 48 0 1 0 120 0a60 48 0 1 0-120 0" fill="none" stroke="url(#orbit)" stroke-width="1"/>
+ <circle class="planet-moving" r="5" fill="url(#mint)"><animateMotion dur="12s" repeatCount="indefinite"><mpath xlink:href="#orbit-a"/></animateMotion></circle><circle class="planet-rest" cx="20" cy="80" r="5" fill="url(#mint)"/>
+</g>
+<g transform="rotate(18 80 80)">
+ <path id="orbit-b" d="M80 20a46 60 0 1 1 0 120a46 60 0 1 1 0-120" fill="none" stroke="url(#orbit)" stroke-width=".9"/>
+ <circle class="planet-moving" r="3.8" fill="url(#lilac)"><animateMotion dur="17s" keyPoints="1;0" keyTimes="0;1" calcMode="linear" repeatCount="indefinite"><mpath xlink:href="#orbit-b"/></animateMotion></circle><circle class="planet-rest" cx="80" cy="20" r="3.8" fill="url(#lilac)"/>
+</g>
+<g class="star-core"><path class="star-glow" d="M80 40Q85 74 120 80Q85 86 80 120Q75 86 40 80Q75 74 80 40Z" fill="#e4eacf" filter="url(#glow)"/><path d="M80 44Q84 75 116 80Q84 85 80 116Q76 85 44 80Q76 75 80 44Z" fill="url(#starlight)"/><path d="M80 59Q83 77 101 80Q83 83 80 101Q77 83 59 80Q77 77 80 59Z" fill="#fff7df" opacity=".65"/></g>
+<g fill="#e4ddd9"><circle class="glint" cx="25" cy="31" r="1" style="--delay:.4s"/><circle class="glint" cx="134" cy="39" r="1.2" style="--delay:1.5s"/><circle class="glint" cx="139" cy="122" r=".8" style="--delay:2.1s"/><circle class="glint" cx="39" cy="136" r="1.1" style="--delay:2.7s"/><path class="glint" d="M127 14q1 5 6 6q-5 1-6 6q-1-5-6-6q5-1 6-6" style="--delay:1s"/><path class="glint" d="M17 106q1 4 5 5q-4 1-5 5q-1-4-5-5q4-1 5-5" style="--delay:2s"/></g>
+</svg>

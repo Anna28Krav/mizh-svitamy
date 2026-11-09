@@ -1,0 +1,287 @@
+{
+  "collection": "Між світами — розширення меню та Хелловін",
+  "created": "2026-10-31",
+  "generation": "Built-in image_gen, one generation per asset",
+  "assets": [
+    {
+      "id": "lilac-moon",
+      "file": "lilac-moon-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One elegant lilac velour-coated crescent moon mousse dessert: vanilla mousse, blueberry insert and thin golden crunchy biscuit base. Whole uncut crescent with small blueberry garnish.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "pistachio-planet",
+      "file": "pistachio-planet-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One pale pistachio-green spherical mousse dessert with thin pale-green chocolate glaze, raspberry insert inside, a tiny raspberry and pistachio crumb garnish. Whole sphere on thin biscuit disc.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "peach-dawn",
+      "file": "peach-dawn-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One highly realistic peach-shaped entremet, soft peach-pink and golden velour skin with seam and one small chocolate leaf. Yogurt mousse peach insert inside. Whole dessert.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "coconut-cloud",
+      "file": "coconut-cloud-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One white fluffy cloud-shaped entremet: coconut mousse, mango insert inside, subtle white velour finish. Rounded connected cloud lobes, whole uncut dessert, tiny coconut flakes.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "cinnamon-snail",
+      "file": "cinnamon-snail-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image is style reference only: match plum stone tabletop, warm upper-left window daylight, speckled sage or lilac ceramic plate, lilac linen at edge, believable artisan food photography, shallow depth of field. New centered close-up distinct subject, three-quarter view, whole serving visible with margins. Natural food texture, no CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One artisan cinnamon roll with golden spiral and generous off-white cream cheese frosting, cinnamon flecks, natural baked edges.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "almond-crescent",
+      "file": "almond-crescent-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image is style reference only: match plum stone tabletop, warm upper-left window daylight, speckled sage or lilac ceramic plate, lilac linen at edge, believable artisan food photography, shallow depth of field. New centered close-up distinct subject, three-quarter view, whole serving visible with margins. Natural food texture, no CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One golden flaky crescent-shaped almond croissant, sliced toasted almonds and very light powdered sugar, natural crumbs.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "cherry-envelope",
+      "file": "cherry-envelope-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image is style reference only: match plum stone tabletop, warm upper-left window daylight, speckled sage or lilac ceramic plate, lilac linen at edge, believable artisan food photography, shallow depth of field. New centered close-up distinct subject, three-quarter view, whole serving visible with margins. Natural food texture, no CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One golden envelope-shaped folded puff pastry with visible ruby cherry filling and pale vanilla custard in open center, crisp layered edges.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "pistachio-knot",
+      "file": "pistachio-knot-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image is style reference only: match plum stone tabletop, warm upper-left window daylight, speckled sage or lilac ceramic plate, lilac linen at edge, believable artisan food photography, shallow depth of field. New centered close-up distinct subject, three-quarter view, whole serving visible with margins. Natural food texture, no CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One artisan knotted brioche bun with green pistachio cream swirls, chopped pistachios, golden buttery crumb.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "star-macarons",
+      "file": "star-macarons-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image is style reference only: match plum stone tabletop, warm upper-left window daylight, speckled sage or lilac ceramic plate, lilac linen at edge, believable artisan food photography, shallow depth of field. New centered close-up distinct subject, three-quarter view, whole serving visible with margins. Natural food texture, no CGI, no illustration, no text, no logo, no watermark, no collage. Subject: Three French macarons on one plate: muted lilac blackcurrant-lavender, pale pistachio raspberry, beige salted caramel. Natural delicate shells and visible cream filling.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "coffee-stones",
+      "file": "coffee-stones-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image is style reference only: match plum stone tabletop, warm upper-left window daylight, speckled sage or lilac ceramic plate, lilac linen at edge, believable artisan food photography, shallow depth of field. New centered close-up distinct subject, three-quarter view, whole serving visible with margins. Natural food texture, no CGI, no illustration, no text, no logo, no watermark, no collage. Subject: Five artisan dark chocolate coffee truffles, small irregular stone-like round shapes, two dusted cocoa, three dark chocolate shell. One split exposing smooth coffee ganache, tiny coffee beans.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "little-saturn",
+      "file": "little-saturn-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One miniature glazed donut designed like Saturn: small round pale-lilac glazed doughnut with a delicate thin dark chocolate ring angled around it, playful but genuinely edible pastry.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "cookie-constellation",
+      "file": "cookie-constellation-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: A small serving of six star-shaped shortbread cookies in mixed sizes, some dipped in dark chocolate and others with pale lemon glaze. Natural buttery crumb.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "turkey-croissant",
+      "file": "turkey-croissant-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One golden butter croissant sandwich cut on diagonal, filled with sliced roasted turkey, mild pale cheese and fresh green lettuce. Clearly savory, appetizing generous filling.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "chicken-quiche",
+      "file": "chicken-quiche-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One individual savory quiche with golden fluted pastry crust, creamy chicken and mushroom filling, lightly browned top, a few thyme leaves. One wedge slightly pulled outward so filling visible.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "spinach-quiche",
+      "file": "spinach-quiche-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One individual savory spinach and feta quiche with golden fluted pastry crust, deep green spinach and visible white feta cubes in creamy filling. One wedge slightly separated.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "tomato-toast",
+      "file": "tomato-toast-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One thick sourdough toast with roasted cherry tomatoes, melted mozzarella and green basil pesto, golden crisp crust, appetizing fresh basil leaf.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-pumpkin",
+      "file": "halloween-pumpkin-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One small pumpkin-shaped orange velour mousse entremet with detailed edible pumpkin grooves and a dark chocolate stem, sea-buckthorn insert and vanilla biscuit inside. Cute refined Halloween pastry, not cartoon. Whole uncut.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-ghost",
+      "file": "halloween-ghost-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One charming white ghost-shaped vanilla mousse entremet with two tiny dark chocolate eyes and gently flowing white velour skirt, cherry insert inside, golden biscuit base. Refined edible Halloween pastry.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-bat",
+      "file": "halloween-bat-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: Three crisp dark chocolate bat-shaped cookies with small chocolate wings, subtle violet icing details, naturally baked texture. Cute sophisticated Halloween food, no gore.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-eye",
+      "file": "halloween-eye-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One clear tall glass filled with rich purple berry milkshake, fluffy real whipped cream on top and one edible white jelly eyeball with green iris resting in cream. Tiny berry sauce drizzle, clearly candy not realistic anatomy. Cute Halloween drink, no gore.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-pumpkin-latte",
+      "file": "halloween-pumpkin-latte-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One speckled sage ceramic cup of pumpkin spice latte topped with generous whipped cream, cinnamon dust and tiny edible orange pumpkin candy, warm caramel coffee color. Cute sophisticated Halloween cafe drink.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-cherry-cocoa",
+      "file": "halloween-cherry-cocoa-cohesive.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café menu product photograph. Reference image 1 is style reference only: match its plum stone tabletop, warm upper-left window daylight, speckled ceramic dishes, lilac linen at edge, believable artisan food photography and shallow depth of field. Create a distinct new photograph of the subject below, centered close-up on a speckled sage or lilac plate (drinks in cup/glass on matching saucer), three-quarter view, complete serving clearly visible with margins, natural crumbs and imperfect textures. Background subdued blurred, cozy premium craft café, realistic food not CGI, no illustration, no text, no logo, no watermark, no collage. Subject: One speckled lilac ceramic cup of dark hot cocoa with cherry, topped with whipped cream and delicate dark chocolate spiderweb disc, tiny ruby cherry syrup streak. Sophisticated edible Halloween drink.",
+      "references": [
+        "lemon-mousse-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "lilac-moon-inside",
+      "file": "lilac-moon-inside.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café dessert cutaway photograph. Reference image is exact dessert and scene to preserve: same tabletop, lighting, framing, plate, linen, garnish palette and dessert identity. New shot of this same lilac crescent moon dessert, vanilla mousse under lilac velour, a clearly defined deep-purple blueberry gel insert through middle, thin pale golden crunchy biscuit base. Dessert has been neatly bisected vertically with a sharp knife into two halves, both halves moved slightly apart horizontally with an approximately 2 cm gap, cut faces turned toward camera so all interior layers clearly visible, intact shell on back of halves. Interior must show mousse surrounding fruit insert and thin crisp biscuit base. Believable artisan pastry cross section, natural texture, not diagram, no CGI, no illustration, no labels, no text, no watermark. Keep serving centered and same camera angle as reference.",
+      "references": [
+        "lilac-moon-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "pistachio-planet-inside",
+      "file": "pistachio-planet-inside.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café dessert cutaway photograph. Reference image is exact dessert and scene to preserve: same tabletop, lighting, framing, plate, linen, garnish palette and dessert identity. New shot of this same pistachio-green spherical dessert, pale green pistachio mousse under thin chocolate glaze, vivid red raspberry insert in center, thin golden crunchy biscuit base. Dessert has been neatly bisected vertically with a sharp knife into two halves, both halves moved slightly apart horizontally with an approximately 2 cm gap, cut faces turned toward camera so all interior layers clearly visible, intact shell on back of halves. Interior must show mousse surrounding fruit insert and thin crisp biscuit base. Believable artisan pastry cross section, natural texture, not diagram, no CGI, no illustration, no labels, no text, no watermark. Keep serving centered and same camera angle as reference.",
+      "references": [
+        "pistachio-planet-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "coconut-cloud-inside",
+      "file": "coconut-cloud-inside.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café dessert cutaway photograph. Reference image is exact dessert and scene to preserve: same tabletop, lighting, framing, plate, linen, garnish palette and dessert identity. New shot of this same white cloud-shaped dessert, white coconut mousse under white velour finish, vivid golden mango insert in center, thin pale golden crunchy biscuit base. Dessert has been neatly bisected vertically with a sharp knife into two halves, both halves moved slightly apart horizontally with an approximately 2 cm gap, cut faces turned toward camera so all interior layers clearly visible, intact shell on back of halves. Interior must show mousse surrounding fruit insert and thin crisp biscuit base. Believable artisan pastry cross section, natural texture, not diagram, no CGI, no illustration, no labels, no text, no watermark. Keep serving centered and same camera angle as reference.",
+      "references": [
+        "coconut-cloud-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "peach-dawn-inside",
+      "file": "peach-dawn-inside.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café dessert cutaway photograph. Reference image is exact dessert and scene to preserve: same tabletop, lighting, framing, plate, linen, garnish palette and dessert identity. New shot of this same peach-shaped dessert, pale yogurt mousse under peach-pink velour skin, orange peach fruit insert in center, thin golden biscuit base. Dessert has been neatly bisected vertically with a sharp knife into two halves, both halves moved slightly apart horizontally with an approximately 2 cm gap, cut faces turned toward camera so all interior layers clearly visible, intact shell on back of halves. Interior must show mousse surrounding fruit insert and thin crisp biscuit base. Believable artisan pastry cross section, natural texture, not diagram, no CGI, no illustration, no labels, no text, no watermark. Keep serving centered and same camera angle as reference.",
+      "references": [
+        "peach-dawn-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-pumpkin-inside",
+      "file": "halloween-pumpkin-inside.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café dessert cutaway photograph. Reference image is exact dessert and scene to preserve: same tabletop, lighting, framing, plate, linen, garnish palette and dessert identity. New shot of this same pumpkin-shaped orange velour mousse entremet, pale vanilla mousse with bright orange sea-buckthorn gel insert and thin golden vanilla biscuit base, keep edible chocolate stem and pumpkin grooves. Dessert has been neatly bisected vertically with a sharp knife into two halves, both halves moved slightly apart horizontally with an approximately 2 cm gap, cut faces turned toward camera so all interior layers clearly visible, intact shell on back of halves. Interior must show mousse surrounding fruit insert and thin crisp biscuit base. Believable artisan pastry cross section, natural texture, not diagram, no CGI, no illustration, no labels, no text, no watermark. Keep serving centered and same camera angle as reference.",
+      "references": [
+        "halloween-pumpkin-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    },
+    {
+      "id": "halloween-ghost-inside",
+      "file": "halloween-ghost-inside.webp",
+      "source": "Generated with built-in image_gen for this café; not a photograph of a real item for sale.",
+      "prompt": "Use case: photorealistic-natural. Asset type: square café dessert cutaway photograph. Reference image is exact dessert and scene to preserve: same tabletop, lighting, framing, plate, linen, garnish palette and dessert identity. New shot of this same white ghost-shaped vanilla mousse entremet, white vanilla mousse with deep ruby cherry fruit insert and thin golden crunchy biscuit base, keep flowing white shell and tiny chocolate eyes. Dessert has been neatly bisected vertically with a sharp knife into two halves, both halves moved slightly apart horizontally with an approximately 2 cm gap, cut faces turned toward camera so all interior layers clearly visible, intact shell on back of halves. Interior must show mousse surrounding fruit insert and thin crisp biscuit base. Believable artisan pastry cross section, natural texture, not diagram, no CGI, no illustration, no labels, no text, no watermark. Keep serving centered and same camera angle as reference.",
+      "references": [
+        "halloween-ghost-cohesive.webp"
+      ],
+      "derivative": "RGB WebP, max 1100 px, quality 88; optimized from generated PNG without content edits."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "moon-cappuccino",
+    "local": "assets/menu/moon-cappuccino-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One freshly made cappuccino in a speckled pale-lilac ceramic cup and saucer, fine creamy microfoam with a simple crescent moon latte-art mark. No lavender or flavored garnish, no flower petals on the drink. A small spoon on the saucer. Light caramel-brown espresso surface and white milk foam."
+  },
+  {
+    "id": "tropical-matcha",
+    "local": "assets/menu/tropical-matcha-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One tall clear lightly ribbed glass of iced mango-passionfruit matcha latte: a pale golden mango-passionfruit puree bottom, off-white milk middle, earthy green matcha top, realistic slightly mixing boundaries and a few normal ice cubes. Small natural mango pieces off to the side. No strawberries. No excessive garnish."
+  },
+  {
+    "id": "green-morning",
+    "local": "assets/menu/green-morning-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One hot matcha latte in a speckled muted sage-green ceramic cup and saucer, earthy pale green matcha, modest white leaf latte art, tiny side bowl of matcha powder in soft background. No ice, no fruit, no coffee-brown foam."
+  },
+  {
+    "id": "mint-comet",
+    "local": "assets/menu/mint-comet-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One clear short cafe tumbler of iced mint lemonade, translucent very pale yellow-green water and mint syrup, a few real mint leaves and a thin lemon slice, natural ice, delicate condensation. Small mint sprig on plum stone. No milk, whipped cream or coffee."
+  },
+  {
+    "id": "matcha-tiramisu",
+    "local": "assets/menu/matcha-tiramisu-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One small round serving of matcha tiramisu on a matte pale-sage dessert plate, real soft mascarpone cream, delicate sponge layers visible on a modest cut edge, fine uneven matcha powder on top. A small dessert fork nearby. No fruit, coffee powder, ice cream, unrealistic tall layers."
+  },
+  {
+    "id": "classic-tiramisu",
+    "local": "assets/menu/classic-tiramisu-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One modest rectangular serving of classic tiramisu on a speckled lilac dessert plate: two coffee-soaked sponge layers with soft mascarpone cream, cocoa powder lightly dusted over top, a few natural crumbs, a small fork nearby. No fruit, thick chocolate glaze or ice cream."
+  },
+  {
+    "id": "berry-cheesecake",
+    "local": "assets/menu/berry-cheesecake-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One triangular slice of baked blueberry cheesecake on a speckled pale-lilac ceramic plate. Creamy ivory baked-cheesecake body, thin golden biscuit crust, restrained dark blueberry compote top with several real blueberries. Small fork, two loose blueberries on the stone. No decorative flowers or gold leaf."
+  },
+  {
+    "id": "lemon-mousse",
+    "local": "assets/menu/lemon-mousse-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One modest individual lemon mousse cake on a speckled pale-sage plate: short cylindrical pale lemon mousse on a thin golden sponge base, three small natural white meringue kisses on top, tiny lemon zest curl. Simple small fork at side. No multiple tiers, elaborate towers or glossy mirror glaze."
+  },
+  {
+    "id": "snow-brownie",
+    "local": "assets/menu/snow-brownie-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One moist dark chocolate walnut brownie square with exactly one modest scoop of vanilla ice cream and a small drizzle of dark chocolate sauce, on a matte pale-lilac dessert plate. Real crumb texture, a few walnut crumbs, believable soft ice-cream texture, dessert fork nearby. No giant sundae or excessive cream."
+  },
+  {
+    "id": "chocolate-swirl",
+    "local": "assets/menu/chocolate-swirl-cohesive.webp",
+    "source": "Built-in image_gen; photorealistic generated café illustration",
+    "references": [
+      "assets/lavender-day.webp",
+      "assets/matcha-day.webp"
+    ],
+    "prompt": "Use case: style-transfer. Create a matching photographic menu asset for the same imaginary cafe as the two reference images. The references are STYLE AND SET references, not the product to repeat. Match their muted deep plum textured stone tabletop, softly blurred plum cafe background, warm side window light from upper left, tactile speckled lilac and sage ceramic dishes, gentle mauve linen at a distant corner, subtle natural film grain and soft falloff. Photorealistic food editorial, believable everyday cafe portion, restrained styling, no fantasy objects or floating particles, no plastic CGI shine, no oversaturated colors, no lettering or watermark. Single main product, centered at a consistent medium distance occupying about60% of a square frame, entire serving visible with generous margins for card crops, three-quarter view from slightly above, natural imperfections and realistic shadows. Background and lighting should look like one coherent shoot with the references. No people/hands, collage, frames, multiple panels. Subject: One golden laminated chocolate pastry spiral (pain au chocolat swirl), on a speckled pale-sage dessert plate, visible flaky concentric layers with a little dark chocolate between them, a few realistic pastry crumbs, simple small dessert fork. No raisins, icing, fruit or multiple pastries."
+  }
+]

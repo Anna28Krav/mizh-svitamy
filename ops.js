@@ -1,9 +1,9 @@
 (()=>{
 'use strict';
 
-const by=id=>document.getElementById(id),
-      endpoint=view=>'/api/operations?view='+view,
-      views=['stock','media','finance','audit'];
+const by=id=>document.getElementById(id);
+const endpoint=view=>'/api/operations?view='+view;
+const views=['stock','media','finance','audit'];
 
 const stamp=t=>new Date(t).toLocaleString('uk-UA',{
   timeZone:'Europe/Kyiv',
@@ -88,9 +88,9 @@ async function load(view,editId){
 
       for(const item of r.items){
         const label=item.name+' · '+item.stock+' '+item.unit;
-        const o=node('option',label);
-        o.value=item.id;
-        select.append(o);
+        const option=node('option',label);
+        option.value=item.id;
+        select.append(option);
 
         const card=tile(item.name,item.stock+' '+item.unit);
 
@@ -102,7 +102,7 @@ async function load(view,editId){
         box.append(card);
       }
 
-      if([...select.options].some(o=>o.value===previous)){
+      if([...select.options].some(option=>option.value===previous)){
         select.value=previous;
       }
 
@@ -117,32 +117,35 @@ async function load(view,editId){
     }
 
     if(view==='finance'){
-      const received=val(r.sales,'amount')+val(r.totals,'income');
+      const sales=val(r.sales,'amount');
+      const count=val(r.sales,'count');
+      const income=val(r.totals,'income');
+      const expense=val(r.totals,'expense');
+      const donation=val(r.donation,'amount');
+      const received=sales+income;
+
+      const percent=amount=>
+        (received>0?amount/received*100:0)
+          .toLocaleString('uk-UA',{
+            maximumFractionDigits:1
+          })+' %';
 
       by('opsFinanceSummary').replaceChildren(
+        tile('Оплачені замовлення · '+count,money(sales)),
+        tile('Додаткові надходження',money(income)),
+        tile('Загальні надходження',money(received)),
         tile(
-          'Оплачені замовлення · '+val(r.sales,'count'),
-          money(val(r.sales,'amount'))
+          'Середній чек',
+          money(count>0?Math.round(sales/count):0)
         ),
+        tile('Витрати',money(expense)),
+        tile('Частка витрат',percent(expense)),
+        tile('Відкладено на донати',money(donation)),
+        tile('Частка донатів',percent(donation)),
+        tile('Різниця за записами',money(received-expense)),
         tile(
-          'Додаткові надходження',
-          money(val(r.totals,'income'))
-        ),
-        tile(
-          'Загальні надходження',
-          money(received)
-        ),
-        tile(
-          'Витрати',
-          money(val(r.totals,'expense'))
-        ),
-        tile(
-          'Відкладено на донати',
-          money(val(r.donation,'amount'))
-        ),
-        tile(
-          'Різниця за записами',
-          money(received-val(r.totals,'expense'))
+          'Вільний залишок',
+          money(received-expense-donation)
         )
       );
 
